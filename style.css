@@ -1,0 +1,37 @@
+#heading{
+
+    font-size: 30px;
+
+}
+body{
+
+    background-size: cover;
+
+}
+#Page1{
+
+    width: 300px;
+    border-radius: 20px;
+    float: center;
+    border: none;
+    height: 40px;
+    margin-top: 20px;
+
+}
+
+#object{
+
+    background-color: red;
+    width: 400px;
+    height: 40px;
+    border-radius: 15px;
+
+}
+
+canvas{
+
+    border: 10px white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+
+}
